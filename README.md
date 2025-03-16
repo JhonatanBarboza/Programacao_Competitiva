@@ -14,6 +14,3 @@ Este repositório é dedicado à prática e estudo de Programação Competitiva.
 
 Sinta-se à vontade para explorar, contribuir ou sugerir melhorias. Vamos juntos evoluir na arte da programação competitiva!
 
-git add .
-git commit -m "gema"
-git push
