@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = quadrado_magico
+TARGET = torre
 
 # Compilador e flags
 CC = g++
