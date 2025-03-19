@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = torre
+TARGET = contagem
 
 # Compilador e flags
 CC = g++
