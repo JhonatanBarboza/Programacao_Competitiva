@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = fita
+TARGET = helicoptero
 
 # Compilador e flags
 CC = g++
