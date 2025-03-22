@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = contagem
+TARGET = matryoshka
 
 # Compilador e flags
 CC = g++
