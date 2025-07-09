@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = helicoptero
+TARGET = botas_OBI2017
 
 # Compilador e flags
 CC = g++
